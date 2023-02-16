@@ -1,0 +1,218 @@
+[{
+    "question": "Manakah bagian dari sistem komputer yang dapat disentuh secara fisik?",
+    "key": "Perangkat keras",
+    "A": "Data",
+    "B": "Sistem operasi",
+    "C": "Perangkat lunak"
+},
+{
+    "question": "Berikut ini manakah tipe komputer yang paling kuat dan canggih?",
+    "key": "Super Computer",
+    "A": "Mini Computer",
+    "B": "Super-micro",
+    "C": "Super-micro"
+},
+{
+    "question": "Apa kepanjangan dari GUI?",
+    "key": "Graphical User Interface",
+    "A": "Good User Interface",
+    "B": "Graphical Unit Interface",
+    "C": "Graphical User Internet"
+},
+{
+    "question": "Manakah yang BENAR terkait kegunaan dari internet?",
+    "key": "Semua benar",
+    "A": "Penyajian Informasi",
+    "B": "Pencarian Informasi",
+    "C": "Komunikasi"
+},
+{
+    "question": "Bagaimana cara untuk mencegah radiasi pada monitor?",
+    "key": "Screen filter",
+    "A": "Cermin cembung",
+    "B": "Mousepad",
+    "C": "Screensaver"
+},
+{
+    "question": "Manakah dari berikut ini yang BUKAN contoh dari perangkat penyimpanan?",
+    "key": "Monitor",
+    "A": "SSD",
+    "B": "Hard Disk",
+    "C": "Floppy Disk"
+},
+{
+    "question": "Dari berikut ini, manakah yang merupakan satuan ukuran data terkecil?",
+    "key": "Kilobyte",
+    "A": "Terabyte",
+    "B": "Megabyte",
+    "C": "Gigabyte"
+},
+{
+    "question": "Manakah yang tergolong ke dalam perangkat keluaran?",
+    "key": "Monitor",
+    "A": "Mic",
+    "B": "Mouse",
+    "C": "Mouse"
+},
+{
+    "question": "Berikut ini adalah tools yang memiliki tampilan CLI, kecuali",
+    "key": "Microsoft Word",
+    "A": "PowerShell",
+    "B": "Command Prompt",
+    "C": "Terminal"
+},
+{
+    "question": "Saat sedang menulis suatu dokumen di komputer, di manakah dokumen tersebut disimpan sementara?",
+    "key": "RAM",
+    "A": "ROM",
+    "B": "CPU",
+    "C": "CD-ROM"
+},
+{
+    "question": "Papan utama dari suatu komputer yang menopang CPU, RAM, dll disebut dengan",
+    "key": "Motherboard",
+    "A": "Fatherboard",
+    "B": "Keyboard",
+    "C": "Semua benar"
+},
+{
+    "question": "... diproses oleh komputer menjadi sebuah informasi.",
+    "key": "Data",
+    "A": "Angka",
+    "B": "Gambar",
+    "C": "Alfabet"
+},
+{
+    "question": "Manakah contoh program atau aplikasi yang menggunakan perintah suara?",
+    "key": "Google Assistant",
+    "A": "Terminal",
+    "B": "Email",
+    "C": "Notepad"
+},
+{
+    "question": "Ekstensi file digunakan untuk",
+    "key": "Mengidentifikasi tipe file",
+    "A": "Keamanan",
+    "B": "Dekorasi file",
+    "C": "Menamai file"
+},
+{
+    "question": "Manakah yang tergolong ke dalam perangkat masukan?",
+    "key": "Scanner",
+    "A": "Printer",
+    "B": "Speaker",
+    "C": "Monitor"
+},
+{
+    "question": "... adalah pintasan (shortcut) untuk melakukan operasi refresh.",
+    "key": "F5",
+    "A": "F3",
+    "B": "F1",
+    "C": "F11"
+},
+{
+    "question": "Ubuntu merupakan salah satu ... dari sistem operasi Linux.",
+    "key": "Distro",
+    "A": "Resource",
+    "B": "Open Source",
+    "C": "Alias"
+},
+{
+    "question": "Apa saja yang dibutuhkan agar bisa berselancar di internet menggunakan kabel?",
+    "key": "Keduanya benar",
+    "A": "Network Interface Card (NIC)",
+    "B": "Kabel Modem",
+    "C": "Salah semua"
+},
+{
+    "question": "Dari berikut ini, manakah urutan prinsip kerja komputer yang benar?",
+    "key": "Input-Proses-Output",
+    "A": "Proses-Output-Input",
+    "B": "Input-Output-Proses",
+    "C": "Output-Proses-Input"
+},
+{
+    "question": "Manakah yang merupakan top-level domain untuk negara Indonesia?",
+    "key": ".id",
+    "A": ".ru",
+    "B": ".uk",
+    "C": ".in"
+},
+{
+    "question": "Port Ethernet pada komputer digunakan untuk",
+    "key": "Menghubungkan komputer ke jaringan atau internet.",
+    "A": "Mengisi daya komputer",
+    "B": "Menampilkan layar komputer ke monitor.",
+    "C": "Menghubungkan komputer ke printer"
+},
+{
+    "question": "Printer adalah perangkat keras yang digunakan sebagai media",
+    "key": "Keluaran",
+    "A": "Penyimpanan",
+    "B": "Pemrosesan",
+    "C": "Masukan"
+},
+{
+    "question": "Istilah \"bit\" merupakan singkatan dari binary digit.",
+    "key": "benar",
+    "A": "salah",
+    "B": "bisa jadi",
+    "C": "kurang tahu"
+},
+{
+    "question": "Berikut yang BUKAN merupakan sistem operasi adalah",
+    "key": "Microsoft Access",
+    "A": "macOS",
+    "B": "Windows",
+    "C": "Linux"
+},
+{
+    "question": "Manakah yang paling tepat terkait tujuan pokok sistem komputer?",
+    "key": "Mengolah data menjadi informasi",
+    "A": "Mengolah output menjadi proses",
+    "B": "Mengolah input menjadi proses",
+    "C": "Mengolah output menjadi input"
+},
+{
+    "question": "Istilah \"Pentium\" di bidang komputer berhubungan dengan",
+    "key": "Microprocessor",
+    "A": "Hard Disk",
+    "B": "Mouse",
+    "C": "DVD"
+},
+{
+    "question": "Apa kepanjangan dari IP di dunia komputer?",
+    "key": "Internet Protocol",
+    "A": "Interface Protocol",
+    "B": "Intelectual Property",
+    "C": "Internet Program"
+},
+{
+    "question": "Satu kilobyte setara dengan ... byte.",
+    "key": 1024,
+    "A": 1000,
+    "B": 1023,
+    "C": 100
+},
+{
+    "question": "Apa kepanjangan dari CLI?",
+    "key": "Command-Line Interface",
+    "A": "Command-Length Integrated",
+    "B": "Colour-Line Interface",
+    "C": "Command-Line Integrated"
+},
+{
+    "question": "Setiap box pada spreadsheet disebut",
+    "key": "Cell",
+    "A": "Space",
+    "B": "Field",
+    "C": "Record"
+},
+{
+    "question": "Berikut adalah nama-nama aplikasi untuk berselancar di internet, kecuali",
+    "key": "File Explorer",
+    "A": "Mozilla Firefox",
+    "B": "Google Chrome",
+    "C": "Microsoft Edge"
+}
+]
